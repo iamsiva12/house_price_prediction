@@ -62,7 +62,7 @@ house-price-prediction/
 How to Run
 Clone the repository
 bash
-   git clone https://github.com/YOUR-USERNAME/house-price-prediction.git
+   git clone https://github.com/iamsiva12/house-price-prediction.git
    cd house-price-prediction
 Install the required libraries
 bash
